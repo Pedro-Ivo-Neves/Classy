@@ -1,6 +1,6 @@
 name: classy
 description: This is a package to simplify your dart code, specially classes and make your code more Classy and Cleaner without the normal boilerplate
-version: 0.0.1
+version: 0.0.1-rc1
 repository: https://github.com/Pedro-Ivo-Neves/Classy
 
 environment:
