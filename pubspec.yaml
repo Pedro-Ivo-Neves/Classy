@@ -1,7 +1,7 @@
 name: classy
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: This is a package to simplify your dart code, specially classes and make your code more Classy and Cleaner without the normal boilerplate
+version: 0.0.1
+repository: https://github.com/Pedro-Ivo-Neves/Classy
 
 environment:
   sdk: ^3.5.2
