@@ -1,4 +1,4 @@
-## 0.0.1-Dev
+## 0.1.0
 
 - Added Constructor Macro
 - Added ToJson Macro
