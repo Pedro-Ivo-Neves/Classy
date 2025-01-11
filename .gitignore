@@ -7,9 +7,22 @@
 pubspec.lock
 
 
-# Not Yet Done 🙂
-# Stay tune for next updates
+# IDE folder configurations
+.vscode
 
-lib/src/methods/*.dart
+
+# Automation Scripts
+*.ps1
+*.sh
+*.cmd
+
+# Coming Soon🙂
+# Stay tune for the next updates
 lib/src/utils/*.dart
 lib/src/classy_data.dart
+
+
+# Notes and Todos
+*.md
+!README.md
+*.txt

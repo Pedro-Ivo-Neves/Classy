@@ -1,7 +1,11 @@
-library;
+library classy;
 
-  export 'src/constructors/constructor.dart';
+export 'src/constructors/constructor.dart' show Constructor;
 
-  export 'src/constructors/from_json.dart';
+export 'src/constructors/from_json.dart' show FromJson;
 
-  export 'src/constructors/to_json.dart';
+export 'src/methods/to_json.dart' show ToJson;
+
+export 'src/methods/to_string.dart' show ToString;
+
+export 'src/data.dart' show Data;
