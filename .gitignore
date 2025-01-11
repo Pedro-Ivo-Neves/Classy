@@ -25,4 +25,5 @@ lib/src/classy_data.dart
 # Notes and Todos
 *.md
 !README.md
+!CHANGELOG.md
 *.txt
